@@ -1,0 +1,11 @@
+body{
+    background-color: aqua;
+    color: rgb(4, 61, 42);
+}
+
+#preloader{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    display: none;
+}
